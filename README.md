@@ -21,7 +21,7 @@ pondering a car purchase. I did not want to just ask ChatGPT to do the calculati
 than to do math by itself. But one of the ways AI has served me best has been by turning somewhat vague specifications into software. 
 So I asked ChatGPT to write a script that does the EV calculation for me. The result is in this repository. 
 
-I had a lot of fun working with my mom to play with the numbers to see how they affected the final numbers. I was most surprised to find that
+I had a lot of fun working with my mom to play with the numbers to see how they affected the final numbers. I was most surprised to learn
 
 - The risk of a catastrophic accident factors fairly little to the end result, as long as the odds are low even without a new car's safety features
 - How massive the depreciation cost of owning a new car is (I knew this already, but looking at the numbers made this feel more real)
@@ -31,5 +31,5 @@ Upon reflection, I think this script exposed two common cognitive biases affecti
 - We both overindexed on the idea of a catastrophic accident 
 - We underindexed on the depreciation cost, probably because it feels "invisible" 
 
-I had a lot of fun with this, and I think it's a great example of a symbiotic interaction between humans, software, and AI. So I'm publishing it on GitHub, despite 
+I think this is a great example of a symbiotic interaction between humans, software, and AI. So I'm publishing it on GitHub, despite 
 the code being 99% AI generated.
